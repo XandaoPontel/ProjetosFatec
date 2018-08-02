@@ -4,4 +4,7 @@
     border-radius: 0;
     height: 100%;
   }
-  
+  body{
+    padding-top: 10px;
+    padding-left: 20%;
+  }
